@@ -23,7 +23,7 @@
  
  I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
  
- - :telescope: I’m working as a Java Engineer backend for applications.
+ - :telescope: I’m working as a Java Developer backend for applications.
 
 - :seedling: Exploring Technical Content Writing.
 
