@@ -44,10 +44,39 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <div>
--:fire: My Stats :
-[![GitHub Streak][![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zamiramanasova)](https://git.io/streak-stats)
-  </div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamiramanasova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ---
+  
+ Pinned Repositories
+
+<a href="https://github.com/zamiramanasova/peaksoftlms-m1">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zamiramanasova&repo=peaksoftlms-m1&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/zamiramanasova/SpringSecurityFiveCass">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zamiramanasova&repo=SpringSecurityFiveCass&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/zamiramanasova/JDBCAndHibernateCrud">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=zamiramanasova&repo=JDBCAndHibernateCrud&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+  GitHub Stats
+
+ <a href="https://github.com/zamiramanasova">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=zamiramanasova&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
+</a>
+  <br>
+  <br>
+<a href="https://github.com/zamiramanasova">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamiramanasova&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+
+  
+  
 <!--
 **zamiramanasova/zamiramanasova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
